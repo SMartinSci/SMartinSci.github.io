@@ -1,11 +1,11 @@
 # Site settings
 author: Sherry Martin
-title: 
+title: Full Stack Developer
 header-img: img/home-bg.png
 email: sm674@cornell.edu
 copyright_name: Sherry Martin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Interdisciplinary mindset 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  SMartinSci
