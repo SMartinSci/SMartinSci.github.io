@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "Mobile Development Frameworks: Recap of Neon Guild meeting "
+date:       2018-12-06 14:12:30 +0000
+permalink:  mobile_development_frameworks_recap_of_neon_guild_meeting
+---
+
+
+Yesterday, December 5th, we had our monthly Neon Guild meeting at UVA Licensing and Ventures Group, right next door to Kardinal Hall. This is my second meeting; during last month’s meeting, John Rhea presented on: Using Story Structure for Better Engagement. After many laughs, we were blown away with John’s knowledge of narrative and how story-telling structures bring someone through an application and enhances their overall user experience. 
+
+Equally impressive, was Rob’s talk last night. Given that I’m in a full-stack remote bootcamp program, full-time, I really have to weigh the time and overall value of attending local tech meetings in Charlottesville. Neon Guild meetings really inspire me and after last night’s meeting, I spent a few more hours completing labs with all of that energy. 
+
+As a Senior Software Engineer at 3Advance, Rob Cook splits his time between android, server and devops tasks. 
+
+Rob discussed the mobile-first nature of web applications given that more users in the US and abroad are using mobile apps versus desktop environments for their overall web footprint. Most time is spent using communication apps- texting, facebook, instagram and even twitter. I reflected on my own app usage and determined that I rarely use the browser, though I think this is primarily due to the poor design, small screen size on my iPhone5 and because pages generally fill up with ads and take over my screen. I text and message family abroad with whatsapp, listen to my favorite podcasts (CodeNewbie, freeCodeCamp, How I Built This), and do code challenges in SoloLearn while I’m working out at the gym. Apps are a fundamental part of our everyday life, so businesses are rapidly creating mobile-first app designs for branding, social, gaming, entertainment, sales, and information needs. 
+
+New apps are created every day and in terms of overall costs, the Cloud offers various low-cost or free options (Firebase) depending on usage. Serverless, backendless, or SDK choices and are starting to become the norm in terms of backend. SDKs are software development kits that allow you to build a high-quality dynamic mobile app which packages one or more APIs, programming tools and documentation. Clients of 3Advance generally fall under 3 development tiers: Full Custom App, backend-ready, or minimum viable product (MVP). Generally paying for the front-end look and user experience, clients don’t generally care which framework you use for the backend. My favorite option is the MVP, because as the developer, you dive in deep and decide what is really necessary and ask yourself: does the client really need a backend, server, sql database, native mobile app, or admin panel to meet their needs? Here you enter the forefront of technological development and array of options that are cheaper, create much less investment in the backend, and offer a quick turnaround to the client. Each development tier has an associated set of pros and cons that really depend on the client’s needs, time, budget, and target platform (iOS, Android or cross-platform). Many clients that fall under the MVP development tier also have maps and videos that for now, perform better when the developer uses native code. I’m excited for the next Neon Guild meeting, for now, Happy Coding!
