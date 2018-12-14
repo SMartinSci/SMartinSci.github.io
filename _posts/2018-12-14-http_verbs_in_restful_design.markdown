@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "HTTP verbs in RESTful Design: 
-within the MVC and API context of Modern Web Applications"
+</n> within the MVC and API context of Modern Web Applications"
 date:       2018-12-14 16:09:40 +0000
 permalink:  http_verbs_in_restful_design
 ---
