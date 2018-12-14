@@ -1,11 +1,9 @@
 ---
 layout: post
-title:      "HTTP verbs in RESTful Design:"
+title:      "HTTP verbs in RESTful Design: within the MVC and API context of Modern Web Applications"
 date:       2018-12-14 16:09:40 +0000
 permalink:  http_verbs_in_restful_design
 ---
-# HTTP verbs in RESTful Design:
-**within the MVC and API context of Modern Web Applications**
 
 In my first portfolio project, I used Nokogiri and Ruby to scrape and parse data from a website to scope specific information I wanted from Fodor’s Global Food Festivals website and display it within a command line application to users. Users could interact with the data using my application, instead of seeing the full context of the page on Fodor’s website. My application used Model-View-Controller(MVC) architectural patterning to connect the three main parts of my application and display information directly to the user. Because of this, the design and associated data of my application relied heavily on an abundance of HTML code. If I had used an API, my code architecture and language itself would been designed to be used by another system, rather than designed to be directly viewed by a human. 
 
@@ -32,4 +30,3 @@ RESTful design principles, including the following topics, will be elaborated on
 * Uniform Interface
 * Representation for all communication (XML, JSON)
 * Building a layered system to increase scalability 
-
