@@ -13,7 +13,7 @@ A RESTful API is an application program interface (API) that uses HTTP verbs/sta
 
 Currently, working in Rails, I have used RESTful principles in all of my codework to date in both the MVC and API context. Rails is a web application framework written in the Ruby language that capitalizes on RESTful principles for ease of workflow and standardization across systems. In the Model-View-Controller (MVC) context, communication cycles between client and server using standard requests and messages that map paths from controllers to actions. HTTP verbs (GET, POST, PATCH, PUT, DELETE, etc.), match to a cooresponding route and the server, in turn issues a response to controllers which then render a view. View templates use html and/or erb (embedded Ruby) to format the HTML response and viewable page the controllers initiated, to the web server. This table shows the HTTP verb, path and corresponding actions for CRUD (create, read, update, and delete) operations.
 
-![]http://ibb.co/YPkmtF2)
+![](/img/Table.png)
 
 The GET `/documents` action shows all documents, whereas the POST `/documents` action creates a new document. The GET `documents/new` action renders the form for creating a new document. `:id` in this context, corresponds to the individual identifier for 1 document. Using the paths and controller actions in the above table `/documents/:id` paths can render the form for creating a new document, show a single document, update a document and delete a document when associated with the associated HTTP verbs. This format is standard Rails using MVC, where views, models and controllers are within the same application and logically connected. 
 
