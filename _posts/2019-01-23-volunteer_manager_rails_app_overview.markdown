@@ -15,7 +15,7 @@ Before starting to code, I sketched out my models and how they would relate to e
 * has_one
 * has_many
 * has_many :through
-* as_one :through
+* has_one :through
 * has_and_belongs_to_many
 
 A <span style="color:blue">resource</span> is information passed through a route that maps requests made with a HTTP verb to an action in a controller. Nested resources reflect our ```has_many relationship``` between models in the routes, and ultimately URLs. Nested resources occur when one model belongs_to another and in my application, roles ```belong_to``` a project and a user, and tasks belong to a role. This level of complexity is not easy to work with; however, I found a way to maintain these relationships, while simplifying and flattening my routes. Rails docs indicate that resources should never be nested more than 1 level deep. 
