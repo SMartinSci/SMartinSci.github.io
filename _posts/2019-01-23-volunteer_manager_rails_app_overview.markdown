@@ -12,7 +12,8 @@ This application is a mini project management system for the Volunteer community
 
 Before starting to code, I sketched out my models and how they would relate to each other. Rails supports six types of model associations: 
 * belongs_to
-* has_one, has_many
+* has_one
+* has_many
 * has_many :through
 * as_one :through
 * has_and_belongs_to_many
